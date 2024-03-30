@@ -1,0 +1,21 @@
+*{
+    font-size: 20px;
+}
+table {
+    border-collapse: collapse;
+    width: 50%;
+}
+
+th, td {
+    padding: 5px;
+    text-align: center;
+}
+h1{
+    color: red ;
+    text-align: center;
+}
+input[type="submit"]
+{
+    margin: auto;
+    display: block;
+}
